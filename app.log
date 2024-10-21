@@ -1,0 +1,7 @@
+2024-10-10 at 14:49:09 CST DEBUG org.springframework.context.support.AbstractApplicationContext 661 prepareRefresh - Refreshing org.springframework.context.support.ClassPathXmlApplicationContext@5c153b9e
+2024-10-10 at 14:49:09 CST DEBUG org.springframework.beans.factory.xml.XmlBeanDefinitionReader 393 doLoadBeanDefinitions - Loaded 1 bean definitions from class path resource [bean.xml]
+2024-10-10 at 14:49:09 CST DEBUG org.springframework.beans.factory.support.DefaultSingletonBeanRegistry 225 getSingleton - Creating shared instance of singleton bean 'user'
+2024-10-10 at 14:55:57 CST DEBUG org.springframework.context.support.AbstractApplicationContext 661 prepareRefresh - Refreshing org.springframework.context.support.ClassPathXmlApplicationContext@674658f7
+2024-10-10 at 14:55:57 CST DEBUG org.springframework.beans.factory.xml.XmlBeanDefinitionReader 393 doLoadBeanDefinitions - Loaded 1 bean definitions from class path resource [bean.xml]
+2024-10-10 at 14:55:57 CST DEBUG org.springframework.beans.factory.support.DefaultSingletonBeanRegistry 225 getSingleton - Creating shared instance of singleton bean 'user'
+2024-10-10 at 14:55:57 CST INFO  com.atguigu.spring6.TestUser 16 testUserObject - 执行调用成功
