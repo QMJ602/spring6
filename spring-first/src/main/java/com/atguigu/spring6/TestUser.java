@@ -13,7 +13,7 @@ public class TestUser {
         ApplicationContext context = new ClassPathXmlApplicationContext("bean.xml");
         User user = (User)context.getBean("user");
         System.out.println(user);
-        logger.info("执行调用成功");//测试5测试
+        logger.info("执行调用成功");//测试6测试
     }
     @Test
     public void testUserObject1() throws ClassNotFoundException, InstantiationException, IllegalAccessException {
